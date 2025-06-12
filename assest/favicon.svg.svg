@@ -1,0 +1,16 @@
+<svg width="220" height="220" viewBox="0 0 220 220" xmlns="http://www.w3.org/2000/svg" fill="none">
+  <rect width="220" height="220" rx="30" fill="#1DB954"></rect>
+  
+  <!-- Outer circle -->
+  <circle cx="110" cy="110" r="75" fill="white"></circle>
+  
+  <!-- Play button -->
+  <text x="95" y="130" font-family="Arial, sans-serif" font-size="48" fill="#1DB954" font-weight="bold">J</text>
+
+  <!-- Sound waves -->
+  <path d="M160 110c0-28-22.7-50.7-50.7-50.7" stroke="#1DB954" stroke-width="4" stroke-linecap="round"></path>
+  <path d="M160 110c0 28-22.7 50.7-50.7 50.7" stroke="#1DB954" stroke-width="4" stroke-linecap="round"></path>
+
+  <!-- Stylized J -->
+  <text x="90" y="190" font-family="Arial, sans-serif" font-size="48" fill="white" font-weight="bold">J</text>
+</svg>
